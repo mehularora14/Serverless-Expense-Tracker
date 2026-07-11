@@ -638,31 +638,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
-
-See the [LICENSE](LICENSE) file for full details.
-
----
-
-## 👨‍💻 Author
-
-<div align="center">
-
-**Built with ☁️ and 🐍 by a Cloud Engineer**
-
-Passionate about serverless architecture, AWS cloud infrastructure, and building scalable applications without managing a single server.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-⭐ **If you found this project useful, consider giving it a star!** ⭐
-
-</div>
-
----
-
-<div align="center">
-
-*Made with 💙 using AWS Serverless technologies*
-
-</div>
